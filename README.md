@@ -41,3 +41,23 @@ Requirements
 Node.js (v14 or later)
 Express.js
 
+## Running the App Locally:
+
+### 1. Clone the Repository:
+```
+git clone https://github.com/your-username/simple-express-api.git
+cd simple-express-api
+
+```
+### 2.Install the dependencies:
+
+```
+npm install
+```
+### 3. Start the server:
+
+```
+node app.js
+```
+The app will be available at http://localhost:3000.
+
