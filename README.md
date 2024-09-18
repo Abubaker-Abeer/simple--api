@@ -12,8 +12,6 @@ This endpoint returns a simple welcome message.
 POST /users
 
 This endpoint allows you to add a new user by providing a name and email in the request body.
-![Screenshot 2024-09-18 030805](https://github.com/user-attachments/assets/64e1fd33-a1e2-40b3-9007-1309d20bfa1d)
-
 3. Get All Users Endpoint
 GET /users
 
@@ -26,6 +24,8 @@ GET /greet?name={SOME_NAME}
 
 This endpoint returns a personalized greeting if a name is provided, or a default greeting otherwise.
 ![Screenshot 2024-09-18 030858](https://github.com/user-attachments/assets/15e754eb-6796-4b10-83f6-c444321018cf)
+![Screenshot 2024-09-18 030805](https://github.com/user-attachments/assets/64e1fd33-a1e2-40b3-9007-1309d20bfa1d)
+
 
 
 5. Info Endpoint
