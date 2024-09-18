@@ -45,8 +45,8 @@ Express.js
 
 ### 1. Clone the Repository:
 ```
-git clone https://github.com/your-username/simple-express-api.git
-cd simple-express-api
+git clone https://github.com/Abubaker-Abeer/simple--api.git
+cd simple--api
 
 ```
 ### 2.Install the dependencies:
