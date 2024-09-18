@@ -12,6 +12,7 @@ This endpoint returns a simple welcome message.
 POST /users
 
 This endpoint allows you to add a new user by providing a name and email in the request body.
+
 3. Get All Users Endpoint
 GET /users
 
