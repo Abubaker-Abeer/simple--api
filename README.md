@@ -35,6 +35,8 @@ GET /info
 This endpoint returns server information, including the current time, client IP address, host name, and the number of registered users.
 ![Screenshot 2024-09-18 031259](https://github.com/user-attachments/assets/51d9702e-0b87-40b9-83c1-042277129d1f)
 
+## Test code:
+![Uploading Screenshot 2024-09-18 043912.png…]()
 
 ## Project Setup
 Requirements
